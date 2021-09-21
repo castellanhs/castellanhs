@@ -1,4 +1,12 @@
-### Hi there 👋
+## Kia ora! 👋 I'm Felix <br/>
+
+📚 I will be graudating Bachelor of Information Technology in June 2022
+
+
+<p>
+- 🔭 I’m currently working on this readme file
+
+</p>
 
 <!--
 **castellanhs/castellanhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
