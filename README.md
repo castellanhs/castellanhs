@@ -7,13 +7,13 @@
 
 <p>
 - 🔭 I’m currently working on this readme file<br>
-<code><img height="20" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/android.svg"> Android</code>
-<code>Hello World!</code>
 </p>
 
-<br />
+<br>
 
-[![Attendance Dashboard](https://github.com/castellanhs/castellanhs.github.io/tree/main/images/pic01.jpg)](https://youtu.be/avsotQvoufc)
+[![Attendance Dashboard](https://github.com/castellanhs/castellanhs/blob/main/dashboard.jpg)](https://youtu.be/avsotQvoufc)
+
+[![Vehicle Tracking](https://github.com/castellanhs/castellanhs/blob/main/VehicleTracking.jpg)]
 
 <!--
 **castellanhs/castellanhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
