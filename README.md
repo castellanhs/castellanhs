@@ -1,12 +1,21 @@
-# Kia ora! 👋 I'm Felix <br/>
+# Kia ora! 👋 I'm Felix <br>
 
 📚 I will be graudating Bachelor of Information Technology in June 2022<br>
 👀 Looking forward to working in IT field based in Wellington
+<br><br>
+## Little about me <br>
 
+<li> ☕ Coffee/Cup of tea is a comma for my day</li><br>
+<li> 🏋️ CrossFit rejuvenates me🔋</li><br>
+<li> Sometimes I enjoy loud volume of music 🎵 and lose myself in music</li><br>
+<li> Cannot stay in comfort zone🛏️for long time, I tend to do new things to break out🤯 the comfort zone;<br><t> currently trying running 🏃 3km per day for at least 3 days a week.</li><br>
+<li>I 🤔 keep try to maintain balance ⚖️, not being biased.</li><br>
 
+The world 🗺️ will be better place: If we see people as people 🧑‍🤝‍🧑, and see others no different than thyself.
+<br><br>
 
 <p>
-- 🔭 I’m currently working on this readme file<br>
+- 🔭 This readme file is in construction 🚧 <br>
 </p>
 
 <br/>
