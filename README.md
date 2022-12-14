@@ -6,7 +6,7 @@
 📚 I completed studying Bachelor of Information Technology in June 2022<br>
 Studied both Software Development and Applied Data Science. But my major is Applied Data Science.<br>
 
-👀 Looking forward to working in IT field based in Wellington
+👀 Data Engineer in Z energy
 <br><br>
 ## Little about me <br>
 
