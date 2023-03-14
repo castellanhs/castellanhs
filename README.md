@@ -4,9 +4,9 @@
 
 
 📚 I completed studying Bachelor of Information Technology in June 2022<br>
-Studied both Software Development and Applied Data Science. But my major is Applied Data Science.<br>
+Studied both Software Development and Applied Data Science. My major is Applied Data Science.<br>
 
-👀 Data Engineer in Z energy
+👀 Junior Integration Engineer in Z Energy
 <br><br>
 ## Little about me <br>
 
