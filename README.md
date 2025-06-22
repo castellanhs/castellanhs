@@ -3,21 +3,19 @@
 # Kia ora! 👋 I'm Seongjoo (Felix) Hong <br>
 
 
-📚 I completed studying Bachelor of Information Technology in June 2022<br>
-Studied both Software Development and Applied Data Science. My major is Applied Data Science.<br>
-
-👀 Junior Integration Engineer in Z Energy
+📚 Bachelor of Information Technology (Applied Data Science)<br>
+👀 Leveraged Azure Cloud for circa 3 years in Z Energy.
 <br><br>
 ## Little about me <br>
 
 <li> ☕ Coffee/Cup of tea is a comma for my day</li><br>
 <li> 🏋️ <b>CrossFit</b> rejuvenates me🔋</li><br>
 <li> Sometimes I enjoy loud volume of music 🎵 and lose myself in music</li><br>
-<li> Cannot stay in comfort zone🛏️for long time, I tend to do new things to break out🤯 the comfort zone;<br><t> currently trying exercise at least four days a week. 🏃 </li><br>
+<li> I tend to do new things to break out🤯 the comfort zone;<br><t> running at least four days a week. 🏃 </li><br>
 <li> From time to time, I participate in volunteer work such as; Conference crew, CrossFit competition set up crew, planting trees:evergreen_tree:, and teaching code to kids. </li><br>
 <li> Sound mind, sound body!</li><br>
 
-The world 🗺️ will be better place: If we see people as people 🧑‍🤝‍🧑, and see others no different than thyself.
+The world 🗺️ will be better place: If we see people as people, treat human as human.
 <br><br>
 
 <p>
